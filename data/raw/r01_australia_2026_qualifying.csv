@@ -1,0 +1,20 @@
+season,race_round,race_name,track_id,race_date,driver_id,driver_name,constructor_id,constructor_name,q1_seconds,q2_seconds,q3_seconds,pole_lap_seconds,pole_lap_display,grid_position
+2026,1,Australian Grand Prix,australia,2026-03-08,russell,George Russell,mercedes,Mercedes,79.507,78.934,78.518,78.518,1:18.518,1
+2026,1,Australian Grand Prix,australia,2026-03-08,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,80.12,79.435,78.811,78.518,1:18.518,2
+2026,1,Australian Grand Prix,australia,2026-03-08,hadjar,Isack Hadjar,red_bull,Red Bull,80.023,79.653,79.303,78.518,1:18.518,3
+2026,1,Australian Grand Prix,australia,2026-03-08,leclerc,Charles Leclerc,ferrari,Ferrari,80.226,79.357,79.327,78.518,1:18.518,4
+2026,1,Australian Grand Prix,australia,2026-03-08,piastri,Oscar Piastri,mclaren,McLaren,79.664,79.525,79.38,78.518,1:18.518,5
+2026,1,Australian Grand Prix,australia,2026-03-08,norris,Lando Norris,mclaren,McLaren,80.01,79.882,79.475,78.518,1:18.518,6
+2026,1,Australian Grand Prix,australia,2026-03-08,hamilton,Lewis Hamilton,ferrari,Ferrari,79.811,79.921,79.478,78.518,1:18.518,7
+2026,1,Australian Grand Prix,australia,2026-03-08,lawson,Liam Lawson,rb,RB F1 Team,80.491,80.144,79.994,78.518,1:18.518,8
+2026,1,Australian Grand Prix,australia,2026-03-08,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,80.409,79.971,81.247,78.518,1:18.518,9
+2026,1,Australian Grand Prix,australia,2026-03-08,bortoleto,Gabriel Bortoleto,audi,Audi,80.495,80.221,,78.518,1:18.518,10
+2026,1,Australian Grand Prix,australia,2026-03-08,hulkenberg,Nico Hülkenberg,audi,Audi,81.024,80.303,,78.518,1:18.518,11
+2026,1,Australian Grand Prix,australia,2026-03-08,bearman,Oliver Bearman,haas,Haas F1 Team,81.247,80.311,,78.518,1:18.518,12
+2026,1,Australian Grand Prix,australia,2026-03-08,ocon,Esteban Ocon,haas,Haas F1 Team,80.759,80.491,,78.518,1:18.518,13
+2026,1,Australian Grand Prix,australia,2026-03-08,gasly,Pierre Gasly,alpine,Alpine F1 Team,81.138,80.501,,78.518,1:18.518,14
+2026,1,Australian Grand Prix,australia,2026-03-08,albon,Alexander Albon,williams,Williams,81.051,80.941,,78.518,1:18.518,15
+2026,1,Australian Grand Prix,australia,2026-03-08,colapinto,Franco Colapinto,alpine,Alpine F1 Team,81.2,81.27,,78.518,1:18.518,16
+2026,1,Australian Grand Prix,australia,2026-03-08,alonso,Fernando Alonso,aston_martin,Aston Martin,81.969,,,78.518,1:18.518,17
+2026,1,Australian Grand Prix,australia,2026-03-08,perez,Sergio Pérez,cadillac,Cadillac F1 Team,82.605,,,78.518,1:18.518,18
+2026,1,Australian Grand Prix,australia,2026-03-08,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,83.244,,,78.518,1:18.518,19

@@ -1,0 +1,23 @@
+season,race_round,race_name,track_id,race_date,driver_id,driver_name,constructor_id,constructor_name,grid_position,finish_position,points,laps_completed,race_time_seconds,race_time_display,fastest_lap_seconds,fastest_lap_display,fastest_lap_rank,status,dnf_reason
+2026,1,Australian Grand Prix,australia,2026-03-08,russell,George Russell,mercedes,Mercedes,1,1,25.0,58,4986.801,1:23:06.801,82.67,1:22.670,6.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,2,2,18.0,58,,+2.974,82.417,1:22.417,3.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,leclerc,Charles Leclerc,ferrari,Ferrari,4,3,15.0,58,,+15.519,82.579,1:22.579,5.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,hamilton,Lewis Hamilton,ferrari,Ferrari,7,4,12.0,58,,+16.144,82.423,1:22.423,4.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,norris,Lando Norris,mclaren,McLaren,6,5,10.0,58,,+51.741,82.358,1:22.358,2.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,max_verstappen,Max Verstappen,red_bull,Red Bull,20,6,8.0,58,,+54.617,82.091,1:22.091,1.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,bearman,Oliver Bearman,haas,Haas F1 Team,12,7,6.0,57,,+4.593,84.02,1:24.020,11.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,9,8,4.0,57,,+11.816,84.182,1:24.182,12.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,bortoleto,Gabriel Bortoleto,audi,Audi,10,9,2.0,57,,+12.775,83.257,1:23.257,8.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,gasly,Pierre Gasly,alpine,Alpine F1 Team,14,10,1.0,57,,+29.027,84.486,1:24.486,15.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,ocon,Esteban Ocon,haas,Haas F1 Team,13,11,0.0,57,,+29.850,84.424,1:24.424,14.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,albon,Alexander Albon,williams,Williams,15,12,0.0,57,,+56.075,84.375,1:24.375,13.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,lawson,Liam Lawson,rb,RB F1 Team,8,13,0.0,57,,+57.173,83.783,1:23.783,10.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,colapinto,Franco Colapinto,alpine,Alpine F1 Team,16,14,0.0,56,,+8.487,82.926,1:22.926,7.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,sainz,Carlos Sainz,williams,Williams,21,15,0.0,56,,+36.886,83.59,1:23.590,9.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,perez,Sergio Pérez,cadillac,Cadillac F1 Team,18,16,0.0,55,,+7.850,86.07,1:26.070,19.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,stroll,Lance Stroll,aston_martin,Aston Martin,22,0,0.0,43,,,85.41,1:25.410,17.0,Finished,
+2026,1,Australian Grand Prix,australia,2026-03-08,alonso,Fernando Alonso,aston_martin,Aston Martin,17,0,0.0,21,,,85.713,1:25.713,18.0,DNF,Retired
+2026,1,Australian Grand Prix,australia,2026-03-08,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,19,0,0.0,15,,,87.364,1:27.364,20.0,DNF,Retired
+2026,1,Australian Grand Prix,australia,2026-03-08,hadjar,Isack Hadjar,red_bull,Red Bull,3,0,0.0,10,,,85.239,1:25.239,16.0,DNF,Retired
+2026,1,Australian Grand Prix,australia,2026-03-08,piastri,Oscar Piastri,mclaren,McLaren,5,0,0.0,0,,,,,,DNF,Did not start
+2026,1,Australian Grand Prix,australia,2026-03-08,hulkenberg,Nico Hülkenberg,audi,Audi,11,0,0.0,0,,,,,,DNF,Did not start
