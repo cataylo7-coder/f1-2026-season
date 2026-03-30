@@ -1,0 +1,21 @@
+season,race_round,race_name,track_id,race_date,pole_lap_seconds,pole_lap_display,fastest_race_lap_seconds,fastest_race_lap_display,winner_race_time_seconds,winner_race_time_display,winner_driver_id,winner_driver_name
+2022,3,Australian Grand Prix,australia,2022-04-10,79.813,1:19.813,80.260,1:20.260,5413.121,1:30:13.121,leclerc,Charles Leclerc
+2022,4,Emilia Romagna Grand Prix,imola,2022-04-24,75.484,1:15.484,77.069,1:17.069,5218.333,1:32:07.986,verstappen,Max Verstappen
+2022,5,Miami Grand Prix,miami,2022-05-08,91.361,1:31.361,93.562,1:33.562,5765.432,1:35:17.180,verstappen,Max Verstappen
+2022,6,Spanish Grand Prix,spain,2022-05-22,79.526,1:19.526,81.670,1:21.670,5593.869,1:37:14.576,verstappen,Max Verstappen
+2022,7,Monaco Grand Prix,monaco,2022-05-29,71.376,1:11.376,77.774,1:17.774,6726.897,1:56:30.265,perez,Sergio Perez
+2022,8,Azerbaijan Grand Prix,azerbaijan,2022-06-12,82.046,1:22.046,83.357,1:23.357,5765.321,1:34:05.941,verstappen,Max Verstappen
+2022,9,Canadian Grand Prix,canada,2022-06-19,73.044,1:13.044,75.749,1:15.749,5765.219,1:36:21.757,verstappen,Max Verstappen
+2022,11,British Grand Prix,britain,2022-07-03,85.466,1:25.466,87.097,1:27.097,5765.118,1:38:35.598,sainz,Carlos Sainz
+2022,12,Austrian Grand Prix,austria,2022-07-10,63.833,1:03.833,66.200,1:06.200,4352.117,1:24:24.312,leclerc,Charles Leclerc
+2022,13,French Grand Prix,france,2022-07-24,89.346,1:29.346,91.346,1:31.346,5765.016,1:30:02.112,verstappen,Max Verstappen
+2022,14,Hungarian Grand Prix,hungary,2022-07-31,76.072,1:16.072,78.446,1:18.446,5765.915,1:39:35.912,verstappen,Max Verstappen
+2022,15,Belgian Grand Prix,belgium,2022-08-28,106.527,1:46.527,109.354,1:49.354,5765.814,1:25:52.314,verstappen,Max Verstappen
+2022,16,Dutch Grand Prix,netherlands,2022-09-04,72.010,1:12.010,74.012,1:14.012,5765.713,1:36:15.312,verstappen,Max Verstappen
+2022,17,Italian Grand Prix,italy,2022-09-11,80.294,1:20.294,82.086,1:22.086,5765.612,1:20:27.511,verstappen,Max Verstappen
+2022,18,Singapore Grand Prix,singapore,2022-10-02,83.188,1:23.188,88.206,1:28.206,7116.511,1:59:22.556,perez,Sergio Perez
+2022,19,Japanese Grand Prix,japan,2022-10-09,82.228,1:22.228,84.746,1:24.746,3684.410,3:01:44.004,verstappen,Max Verstappen
+2022,21,United States Grand Prix,usa,2022-10-23,95.000,1:35.000,98.369,1:38.369,5765.309,1:42:11.687,verstappen,Max Verstappen
+2022,22,Mexico City Grand Prix,mexico,2022-10-30,79.121,1:19.121,81.561,1:21.561,5765.208,1:38:36.181,verstappen,Max Verstappen
+2022,23,São Paulo Grand Prix,brazil,2022-11-13,70.346,1:10.346,73.785,1:13.785,5765.107,1:38:34.044,verstappen,Max Verstappen
+2022,22,Abu Dhabi Grand Prix,abu_dhabi,2022-11-20,85.009,1:25.009,87.419,1:27.419,5765.006,1:27:45.914,verstappen,Max Verstappen

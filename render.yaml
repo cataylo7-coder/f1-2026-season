@@ -1,0 +1,13 @@
+# render.yaml — Render deployment configuration
+# Connect your GitHub repo to Render and it will use this file automatically.
+# Free tier available at https://render.com
+
+services:
+  - type: web
+    name: f1-2026-tracker
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app.app:server --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0

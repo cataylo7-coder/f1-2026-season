@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Exports (optional — remove this block if you want exports tracked in git)
+# exports/
+
+# Large data files (uncomment if CSVs get large)
+# data/processed/
