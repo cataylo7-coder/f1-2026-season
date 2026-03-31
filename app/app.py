@@ -853,9 +853,9 @@ def update_progression(selected_drivers, selected_round):
         **PLOTLY_TEMPLATE['layout'],
         height=420,
         margin={'t': 10, 'b': 40, 'l': 50, 'r': 20},
-        xaxis={'dtick': 1, 'title': 'Race Round'},
         hovermode='x unified',
     )
+    fig_line.update_xaxes(dtick=1, title='Race Round')
 
     # ── Wins & podiums grouped bar ────────────────────────────────────────────
     df_wp = df_races[
