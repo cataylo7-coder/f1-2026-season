@@ -1,0 +1,23 @@
+season,race_round,race_name,track_id,race_date,driver_id,driver_name,constructor_id,constructor_name,q1_seconds,q2_seconds,q3_seconds,pole_lap_seconds,pole_lap_display,grid_position
+2026,3,Japanese Grand Prix,japan,2026-03-29,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,90.035,89.048,88.778,88.778,1:28.778,1
+2026,3,Japanese Grand Prix,japan,2026-03-29,russell,George Russell,mercedes,Mercedes,89.967,89.686,89.076,88.778,1:28.778,2
+2026,3,Japanese Grand Prix,japan,2026-03-29,piastri,Oscar Piastri,mclaren,McLaren,90.2,89.451,89.132,88.778,1:28.778,3
+2026,3,Japanese Grand Prix,japan,2026-03-29,leclerc,Charles Leclerc,ferrari,Ferrari,89.915,89.303,89.405,88.778,1:28.778,4
+2026,3,Japanese Grand Prix,japan,2026-03-29,norris,Lando Norris,mclaren,McLaren,90.401,89.795,89.409,88.778,1:28.778,5
+2026,3,Japanese Grand Prix,japan,2026-03-29,hamilton,Lewis Hamilton,ferrari,Ferrari,90.309,89.589,89.567,88.778,1:28.778,6
+2026,3,Japanese Grand Prix,japan,2026-03-29,gasly,Pierre Gasly,alpine,Alpine F1 Team,90.584,89.874,89.691,88.778,1:28.778,7
+2026,3,Japanese Grand Prix,japan,2026-03-29,hadjar,Isack Hadjar,red_bull,Red Bull,90.662,90.104,89.978,88.778,1:28.778,8
+2026,3,Japanese Grand Prix,japan,2026-03-29,bortoleto,Gabriel Bortoleto,audi,Audi,90.359,89.99,90.274,88.778,1:28.778,9
+2026,3,Japanese Grand Prix,japan,2026-03-29,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,90.781,90.109,90.319,88.778,1:28.778,10
+2026,3,Japanese Grand Prix,japan,2026-03-29,max_verstappen,Max Verstappen,red_bull,Red Bull,90.519,90.262,,88.778,1:28.778,11
+2026,3,Japanese Grand Prix,japan,2026-03-29,ocon,Esteban Ocon,haas,Haas F1 Team,90.915,90.309,,88.778,1:28.778,12
+2026,3,Japanese Grand Prix,japan,2026-03-29,hulkenberg,Nico Hülkenberg,audi,Audi,90.358,90.387,,88.778,1:28.778,13
+2026,3,Japanese Grand Prix,japan,2026-03-29,lawson,Liam Lawson,rb,RB F1 Team,90.657,90.495,,88.778,1:28.778,14
+2026,3,Japanese Grand Prix,japan,2026-03-29,colapinto,Franco Colapinto,alpine,Alpine F1 Team,90.931,90.627,,88.778,1:28.778,15
+2026,3,Japanese Grand Prix,japan,2026-03-29,sainz,Carlos Sainz,williams,Williams,90.927,91.033,,88.778,1:28.778,16
+2026,3,Japanese Grand Prix,japan,2026-03-29,albon,Alexander Albon,williams,Williams,91.088,,,88.778,1:28.778,17
+2026,3,Japanese Grand Prix,japan,2026-03-29,bearman,Oliver Bearman,haas,Haas F1 Team,91.09,,,88.778,1:28.778,18
+2026,3,Japanese Grand Prix,japan,2026-03-29,perez,Sergio Pérez,cadillac,Cadillac F1 Team,92.206,,,88.778,1:28.778,19
+2026,3,Japanese Grand Prix,japan,2026-03-29,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,92.33,,,88.778,1:28.778,20
+2026,3,Japanese Grand Prix,japan,2026-03-29,alonso,Fernando Alonso,aston_martin,Aston Martin,92.646,,,88.778,1:28.778,21
+2026,3,Japanese Grand Prix,japan,2026-03-29,stroll,Lance Stroll,aston_martin,Aston Martin,92.92,,,88.778,1:28.778,22

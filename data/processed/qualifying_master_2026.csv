@@ -18,3 +18,47 @@ season,race_round,race_name,track_id,race_date,driver_id,driver_name,constructor
 2026,1,Australian Grand Prix,australia,2026-03-08,alonso,Fernando Alonso,aston_martin,Aston Martin,81.969,,,78.518,1:18.518,17
 2026,1,Australian Grand Prix,australia,2026-03-08,perez,Sergio Pérez,cadillac,Cadillac F1 Team,82.605,,,78.518,1:18.518,18
 2026,1,Australian Grand Prix,australia,2026-03-08,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,83.244,,,78.518,1:18.518,19
+2026,2,Chinese Grand Prix,china,2026-03-15,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,93.305,92.443,92.064,92.064,1:32.064,1
+2026,2,Chinese Grand Prix,china,2026-03-15,russell,George Russell,mercedes,Mercedes,93.262,92.523,92.286,92.064,1:32.064,2
+2026,2,Chinese Grand Prix,china,2026-03-15,hamilton,Lewis Hamilton,ferrari,Ferrari,93.522,92.567,92.415,92.064,1:32.064,3
+2026,2,Chinese Grand Prix,china,2026-03-15,leclerc,Charles Leclerc,ferrari,Ferrari,93.175,92.486,92.428,92.064,1:32.064,4
+2026,2,Chinese Grand Prix,china,2026-03-15,piastri,Oscar Piastri,mclaren,McLaren,93.59,93.13,92.55,92.064,1:32.064,5
+2026,2,Chinese Grand Prix,china,2026-03-15,norris,Lando Norris,mclaren,McLaren,93.535,92.91,92.608,92.064,1:32.064,6
+2026,2,Chinese Grand Prix,china,2026-03-15,gasly,Pierre Gasly,alpine,Alpine F1 Team,93.788,93.003,92.873,92.064,1:32.064,7
+2026,2,Chinese Grand Prix,china,2026-03-15,max_verstappen,Max Verstappen,red_bull,Red Bull,93.417,93.098,93.002,92.064,1:32.064,8
+2026,2,Chinese Grand Prix,china,2026-03-15,hadjar,Isack Hadjar,red_bull,Red Bull,93.632,93.352,93.121,92.064,1:32.064,9
+2026,2,Chinese Grand Prix,china,2026-03-15,bearman,Oliver Bearman,haas,Haas F1 Team,93.687,93.197,93.292,92.064,1:32.064,10
+2026,2,Chinese Grand Prix,china,2026-03-15,hulkenberg,Nico Hülkenberg,audi,Audi,94.116,93.354,,92.064,1:32.064,11
+2026,2,Chinese Grand Prix,china,2026-03-15,colapinto,Franco Colapinto,alpine,Alpine F1 Team,93.634,93.357,,92.064,1:32.064,12
+2026,2,Chinese Grand Prix,china,2026-03-15,ocon,Esteban Ocon,haas,Haas F1 Team,93.974,93.538,,92.064,1:32.064,13
+2026,2,Chinese Grand Prix,china,2026-03-15,lawson,Liam Lawson,rb,RB F1 Team,94.139,93.765,,92.064,1:32.064,14
+2026,2,Chinese Grand Prix,china,2026-03-15,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,93.906,93.784,,92.064,1:32.064,15
+2026,2,Chinese Grand Prix,china,2026-03-15,bortoleto,Gabriel Bortoleto,audi,Audi,93.549,93.965,,92.064,1:32.064,16
+2026,2,Chinese Grand Prix,china,2026-03-15,sainz,Carlos Sainz,williams,Williams,94.317,,,92.064,1:32.064,17
+2026,2,Chinese Grand Prix,china,2026-03-15,albon,Alexander Albon,williams,Williams,94.772,,,92.064,1:32.064,18
+2026,2,Chinese Grand Prix,china,2026-03-15,alonso,Fernando Alonso,aston_martin,Aston Martin,95.203,,,92.064,1:32.064,19
+2026,2,Chinese Grand Prix,china,2026-03-15,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,95.436,,,92.064,1:32.064,20
+2026,2,Chinese Grand Prix,china,2026-03-15,stroll,Lance Stroll,aston_martin,Aston Martin,95.995,,,92.064,1:32.064,21
+2026,2,Chinese Grand Prix,china,2026-03-15,perez,Sergio Pérez,cadillac,Cadillac F1 Team,96.906,,,92.064,1:32.064,22
+2026,3,Japanese Grand Prix,japan,2026-03-29,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,90.035,89.048,88.778,88.778,1:28.778,1
+2026,3,Japanese Grand Prix,japan,2026-03-29,russell,George Russell,mercedes,Mercedes,89.967,89.686,89.076,88.778,1:28.778,2
+2026,3,Japanese Grand Prix,japan,2026-03-29,piastri,Oscar Piastri,mclaren,McLaren,90.2,89.451,89.132,88.778,1:28.778,3
+2026,3,Japanese Grand Prix,japan,2026-03-29,leclerc,Charles Leclerc,ferrari,Ferrari,89.915,89.303,89.405,88.778,1:28.778,4
+2026,3,Japanese Grand Prix,japan,2026-03-29,norris,Lando Norris,mclaren,McLaren,90.401,89.795,89.409,88.778,1:28.778,5
+2026,3,Japanese Grand Prix,japan,2026-03-29,hamilton,Lewis Hamilton,ferrari,Ferrari,90.309,89.589,89.567,88.778,1:28.778,6
+2026,3,Japanese Grand Prix,japan,2026-03-29,gasly,Pierre Gasly,alpine,Alpine F1 Team,90.584,89.874,89.691,88.778,1:28.778,7
+2026,3,Japanese Grand Prix,japan,2026-03-29,hadjar,Isack Hadjar,red_bull,Red Bull,90.662,90.104,89.978,88.778,1:28.778,8
+2026,3,Japanese Grand Prix,japan,2026-03-29,bortoleto,Gabriel Bortoleto,audi,Audi,90.359,89.99,90.274,88.778,1:28.778,9
+2026,3,Japanese Grand Prix,japan,2026-03-29,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,90.781,90.109,90.319,88.778,1:28.778,10
+2026,3,Japanese Grand Prix,japan,2026-03-29,max_verstappen,Max Verstappen,red_bull,Red Bull,90.519,90.262,,88.778,1:28.778,11
+2026,3,Japanese Grand Prix,japan,2026-03-29,ocon,Esteban Ocon,haas,Haas F1 Team,90.915,90.309,,88.778,1:28.778,12
+2026,3,Japanese Grand Prix,japan,2026-03-29,hulkenberg,Nico Hülkenberg,audi,Audi,90.358,90.387,,88.778,1:28.778,13
+2026,3,Japanese Grand Prix,japan,2026-03-29,lawson,Liam Lawson,rb,RB F1 Team,90.657,90.495,,88.778,1:28.778,14
+2026,3,Japanese Grand Prix,japan,2026-03-29,colapinto,Franco Colapinto,alpine,Alpine F1 Team,90.931,90.627,,88.778,1:28.778,15
+2026,3,Japanese Grand Prix,japan,2026-03-29,sainz,Carlos Sainz,williams,Williams,90.927,91.033,,88.778,1:28.778,16
+2026,3,Japanese Grand Prix,japan,2026-03-29,albon,Alexander Albon,williams,Williams,91.088,,,88.778,1:28.778,17
+2026,3,Japanese Grand Prix,japan,2026-03-29,bearman,Oliver Bearman,haas,Haas F1 Team,91.09,,,88.778,1:28.778,18
+2026,3,Japanese Grand Prix,japan,2026-03-29,perez,Sergio Pérez,cadillac,Cadillac F1 Team,92.206,,,88.778,1:28.778,19
+2026,3,Japanese Grand Prix,japan,2026-03-29,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,92.33,,,88.778,1:28.778,20
+2026,3,Japanese Grand Prix,japan,2026-03-29,alonso,Fernando Alonso,aston_martin,Aston Martin,92.646,,,88.778,1:28.778,21
+2026,3,Japanese Grand Prix,japan,2026-03-29,stroll,Lance Stroll,aston_martin,Aston Martin,92.92,,,88.778,1:28.778,22

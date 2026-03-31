@@ -1,23 +1,89 @@
 season,race_round,race_name,track_id,race_date,driver_id,driver_name,constructor_id,constructor_name,grid_position,finish_position,points,cumulative_points,fastest_lap_seconds,fastest_lap_rank,status,dnf_reason
 2026,1,Australian Grand Prix,australia,2026-03-08,albon,Alexander Albon,williams,Williams,15,12,0.0,0.0,84.375,13.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,albon,Alexander Albon,williams,Williams,22,0,0.0,0.0,,,DNF,Did not start
+2026,2,Chinese Grand Prix,china,2026-03-15,albon,Alexander Albon,williams,Williams,22,16,0.0,0.0,98.158,16.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,albon,Alexander Albon,williams,Williams,17,20,0.0,0.0,93.427,7.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,alonso,Fernando Alonso,aston_martin,Aston Martin,17,0,0.0,0.0,85.713,18.0,DNF,Retired
+2026,2,Chinese Grand Prix,china,2026-03-15,alonso,Fernando Alonso,aston_martin,Aston Martin,18,0,0.0,0.0,99.721,17.0,DNF,Retired
+2026,2,Chinese Grand Prix,china,2026-03-15,alonso,Fernando Alonso,aston_martin,Aston Martin,18,17,0.0,0.0,98.487,19.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,alonso,Fernando Alonso,aston_martin,Aston Martin,21,18,0.0,0.0,96.221,20.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,2,2,18.0,18.0,82.417,3.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,1,1,25.0,43.0,95.275,1.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,2,5,4.0,47.0,94.76,2.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,1,1,25.0,72.0,92.432,1.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,9,8,4.0,4.0,84.182,12.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,15,12,0.0,4.0,96.099,6.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,15,0,0.0,4.0,98.475,18.0,DNF,Retired
+2026,3,Japanese Grand Prix,japan,2026-03-29,arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,10,14,0.0,4.0,94.314,15.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,bearman,Oliver Bearman,haas,Haas F1 Team,12,7,6.0,6.0,84.02,11.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,bearman,Oliver Bearman,haas,Haas F1 Team,10,5,10.0,16.0,96.429,8.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,bearman,Oliver Bearman,haas,Haas F1 Team,9,8,1.0,17.0,97.374,11.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,bearman,Oliver Bearman,haas,Haas F1 Team,18,0,0.0,17.0,95.604,18.0,DNF,Retired
 2026,1,Australian Grand Prix,australia,2026-03-08,bortoleto,Gabriel Bortoleto,audi,Audi,10,9,2.0,2.0,83.257,8.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,bortoleto,Gabriel Bortoleto,audi,Audi,16,0,0.0,2.0,,,DNF,Did not start
+2026,2,Chinese Grand Prix,china,2026-03-15,bortoleto,Gabriel Bortoleto,audi,Audi,14,13,0.0,2.0,97.8,12.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,bortoleto,Gabriel Bortoleto,audi,Audi,9,13,0.0,2.0,94.164,12.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,19,0,0.0,0.0,87.364,20.0,DNF,Retired
+2026,2,Chinese Grand Prix,china,2026-03-15,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,19,13,0.0,0.0,98.393,15.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,20,0,0.0,0.0,99.262,22.0,DNF,Retired
+2026,3,Japanese Grand Prix,japan,2026-03-29,bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,20,19,0.0,0.0,96.269,21.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,colapinto,Franco Colapinto,alpine,Alpine F1 Team,16,14,0.0,0.0,82.926,7.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,colapinto,Franco Colapinto,alpine,Alpine F1 Team,12,10,1.0,1.0,96.783,10.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,colapinto,Franco Colapinto,alpine,Alpine F1 Team,16,14,0.0,1.0,97.278,9.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,colapinto,Franco Colapinto,alpine,Alpine F1 Team,15,16,0.0,1.0,94.512,16.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,gasly,Pierre Gasly,alpine,Alpine F1 Team,14,10,1.0,1.0,84.486,15.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,gasly,Pierre Gasly,alpine,Alpine F1 Team,7,6,8.0,9.0,96.505,9.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,gasly,Pierre Gasly,alpine,Alpine F1 Team,7,11,0.0,9.0,98.349,17.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,gasly,Pierre Gasly,alpine,Alpine F1 Team,7,7,6.0,15.0,93.691,9.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,hadjar,Isack Hadjar,red_bull,Red Bull,3,0,0.0,0.0,85.239,16.0,DNF,Retired
+2026,2,Chinese Grand Prix,china,2026-03-15,hadjar,Isack Hadjar,red_bull,Red Bull,9,8,4.0,4.0,97.311,13.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,hadjar,Isack Hadjar,red_bull,Red Bull,10,15,0.0,4.0,96.912,8.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,hadjar,Isack Hadjar,red_bull,Red Bull,8,12,0.0,4.0,93.837,11.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,hamilton,Lewis Hamilton,ferrari,Ferrari,7,4,12.0,12.0,82.423,4.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,hamilton,Lewis Hamilton,ferrari,Ferrari,3,3,15.0,27.0,96.092,5.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,hamilton,Lewis Hamilton,ferrari,Ferrari,4,3,6.0,33.0,94.926,3.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,hamilton,Lewis Hamilton,ferrari,Ferrari,6,6,8.0,41.0,92.777,4.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,hulkenberg,Nico Hülkenberg,audi,Audi,11,0,0.0,0.0,,,DNF,Did not start
+2026,2,Chinese Grand Prix,china,2026-03-15,hulkenberg,Nico Hülkenberg,audi,Audi,11,11,0.0,0.0,96.18,7.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,hulkenberg,Nico Hülkenberg,audi,Audi,11,0,0.0,0.0,98.027,15.0,DNF,Retired
+2026,3,Japanese Grand Prix,japan,2026-03-29,hulkenberg,Nico Hülkenberg,audi,Audi,13,11,0.0,0.0,93.732,10.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,lawson,Liam Lawson,rb,RB F1 Team,8,13,0.0,0.0,83.783,10.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,lawson,Liam Lawson,rb,RB F1 Team,14,7,6.0,6.0,97.096,12.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,lawson,Liam Lawson,rb,RB F1 Team,13,7,2.0,8.0,97.882,13.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,lawson,Liam Lawson,rb,RB F1 Team,14,9,2.0,10.0,94.23,13.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,leclerc,Charles Leclerc,ferrari,Ferrari,4,3,15.0,15.0,82.579,5.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,leclerc,Charles Leclerc,ferrari,Ferrari,4,4,12.0,27.0,96.011,4.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,leclerc,Charles Leclerc,ferrari,Ferrari,6,2,7.0,34.0,94.753,1.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,leclerc,Charles Leclerc,ferrari,Ferrari,4,3,15.0,49.0,92.634,3.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,max_verstappen,Max Verstappen,red_bull,Red Bull,20,6,8.0,8.0,82.091,1.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,max_verstappen,Max Verstappen,red_bull,Red Bull,8,0,0.0,8.0,97.046,11.0,DNF,Retired
+2026,2,Chinese Grand Prix,china,2026-03-15,max_verstappen,Max Verstappen,red_bull,Red Bull,8,9,0.0,8.0,95.774,7.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,max_verstappen,Max Verstappen,red_bull,Red Bull,11,8,4.0,12.0,93.552,8.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,norris,Lando Norris,mclaren,McLaren,6,5,10.0,10.0,82.358,2.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,norris,Lando Norris,mclaren,McLaren,6,0,0.0,10.0,,,DNF,Did not start
+2026,2,Chinese Grand Prix,china,2026-03-15,norris,Lando Norris,mclaren,McLaren,3,4,5.0,15.0,95.708,6.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,norris,Lando Norris,mclaren,McLaren,5,5,10.0,25.0,93.208,6.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,ocon,Esteban Ocon,haas,Haas F1 Team,13,11,0.0,0.0,84.424,14.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,ocon,Esteban Ocon,haas,Haas F1 Team,13,14,0.0,0.0,95.964,3.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,ocon,Esteban Ocon,haas,Haas F1 Team,12,10,0.0,0.0,97.363,10.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,ocon,Esteban Ocon,haas,Haas F1 Team,12,10,1.0,1.0,94.256,14.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,perez,Sergio Pérez,cadillac,Cadillac F1 Team,18,16,0.0,0.0,86.07,19.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,perez,Sergio Pérez,cadillac,Cadillac F1 Team,21,15,0.0,0.0,98.523,16.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,perez,Sergio Pérez,cadillac,Cadillac F1 Team,21,19,0.0,0.0,98.862,21.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,perez,Sergio Pérez,cadillac,Cadillac F1 Team,19,17,0.0,0.0,95.637,19.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,piastri,Oscar Piastri,mclaren,McLaren,5,0,0.0,0.0,,,DNF,Did not start
+2026,2,Chinese Grand Prix,china,2026-03-15,piastri,Oscar Piastri,mclaren,McLaren,5,0,0.0,0.0,,,DNF,Did not start
+2026,2,Chinese Grand Prix,china,2026-03-15,piastri,Oscar Piastri,mclaren,McLaren,5,6,3.0,3.0,95.635,5.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,piastri,Oscar Piastri,mclaren,McLaren,3,2,18.0,21.0,92.996,5.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,russell,George Russell,mercedes,Mercedes,1,1,25.0,25.0,82.67,6.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,russell,George Russell,mercedes,Mercedes,2,2,18.0,43.0,95.4,2.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,russell,George Russell,mercedes,Mercedes,1,1,8.0,51.0,95.101,4.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,russell,George Russell,mercedes,Mercedes,2,4,12.0,63.0,92.549,2.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,sainz,Carlos Sainz,williams,Williams,21,15,0.0,0.0,83.59,9.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,sainz,Carlos Sainz,williams,Williams,17,9,2.0,2.0,97.981,14.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,sainz,Carlos Sainz,williams,Williams,17,12,0.0,2.0,97.913,14.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,sainz,Carlos Sainz,williams,Williams,16,15,0.0,2.0,94.514,17.0,Finished,
 2026,1,Australian Grand Prix,australia,2026-03-08,stroll,Lance Stroll,aston_martin,Aston Martin,22,0,0.0,0.0,85.41,17.0,Finished,
+2026,2,Chinese Grand Prix,china,2026-03-15,stroll,Lance Stroll,aston_martin,Aston Martin,20,0,0.0,0.0,100.883,18.0,DNF,Retired
+2026,2,Chinese Grand Prix,china,2026-03-15,stroll,Lance Stroll,aston_martin,Aston Martin,19,18,0.0,0.0,98.532,20.0,Finished,
+2026,3,Japanese Grand Prix,japan,2026-03-29,stroll,Lance Stroll,aston_martin,Aston Martin,22,0,0.0,0.0,97.217,22.0,DNF,Retired

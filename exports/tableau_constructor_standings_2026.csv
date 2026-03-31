@@ -1,12 +1,12 @@
 position,constructor_id,constructor_name,total_points,wins,podiums,dnfs,fastest_laps
-1,mercedes,Mercedes,43.0,1,2,0,0
-2,ferrari,Ferrari,27.0,0,1,0,0
-3,mclaren,McLaren,10.0,0,1,1,0
-4,red_bull,Red Bull,8.0,0,1,1,1
-5,haas,Haas F1 Team,6.0,0,0,0,0
-6,rb,RB F1 Team,4.0,0,0,0,0
-7,audi,Audi,2.0,0,1,1,0
-8,alpine,Alpine F1 Team,1.0,0,0,0,0
-9,aston_martin,Aston Martin,0.0,0,2,1,0
-10,cadillac,Cadillac F1 Team,0.0,0,1,1,0
-11,williams,Williams,0.0,0,0,0,0
+1,mercedes,Mercedes,135.0,4,6,0,2
+2,ferrari,Ferrari,90.0,0,5,0,1
+3,mclaren,McLaren,46.0,0,4,3,0
+4,haas,Haas F1 Team,18.0,0,1,1,0
+5,red_bull,Red Bull,16.0,0,2,2,1
+6,alpine,Alpine F1 Team,16.0,0,0,0,0
+7,rb,RB F1 Team,14.0,0,1,1,0
+8,williams,Williams,2.0,0,1,1,0
+9,audi,Audi,2.0,0,3,3,0
+10,aston_martin,Aston Martin,0.0,0,5,4,0
+11,cadillac,Cadillac F1 Team,0.0,0,2,2,0

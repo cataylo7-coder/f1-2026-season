@@ -1,23 +1,23 @@
 position,driver_id,driver_name,constructor_name,total_points,races_entered,wins,podiums,dnfs,best_finish,fastest_laps
-1,russell,George Russell,Mercedes,25.0,1,1,1,0,1.0,0
-2,antonelli,Andrea Kimi Antonelli,Mercedes,18.0,1,0,1,0,2.0,0
-3,leclerc,Charles Leclerc,Ferrari,15.0,1,0,1,0,3.0,0
-4,hamilton,Lewis Hamilton,Ferrari,12.0,1,0,0,0,4.0,0
-5,norris,Lando Norris,McLaren,10.0,1,0,0,0,5.0,0
-6,max_verstappen,Max Verstappen,Red Bull,8.0,1,0,0,0,6.0,1
-7,bearman,Oliver Bearman,Haas F1 Team,6.0,1,0,0,0,7.0,0
-8,arvid_lindblad,Arvid Lindblad,RB F1 Team,4.0,1,0,0,0,8.0,0
-9,bortoleto,Gabriel Bortoleto,Audi,2.0,1,0,0,0,9.0,0
-10,gasly,Pierre Gasly,Alpine F1 Team,1.0,1,0,0,0,10.0,0
-11,albon,Alexander Albon,Williams,0.0,1,0,0,0,12.0,0
-12,alonso,Fernando Alonso,Aston Martin,0.0,1,0,1,1,,0
-13,hadjar,Isack Hadjar,Red Bull,0.0,1,0,1,1,,0
-14,bottas,Valtteri Bottas,Cadillac F1 Team,0.0,1,0,1,1,,0
-15,lawson,Liam Lawson,RB F1 Team,0.0,1,0,0,0,13.0,0
-16,hulkenberg,Nico Hülkenberg,Audi,0.0,1,0,1,1,,0
-17,colapinto,Franco Colapinto,Alpine F1 Team,0.0,1,0,0,0,14.0,0
-18,ocon,Esteban Ocon,Haas F1 Team,0.0,1,0,0,0,11.0,0
-19,perez,Sergio Pérez,Cadillac F1 Team,0.0,1,0,0,0,16.0,0
-20,piastri,Oscar Piastri,McLaren,0.0,1,0,1,1,,0
-21,sainz,Carlos Sainz,Williams,0.0,1,0,0,0,15.0,0
-22,stroll,Lance Stroll,Aston Martin,0.0,1,0,1,0,,0
+1,antonelli,Andrea Kimi Antonelli,Mercedes,72.0,4,2,3,0,1,2
+2,russell,George Russell,Mercedes,63.0,4,2,3,0,1,0
+3,leclerc,Charles Leclerc,Ferrari,49.0,4,0,3,0,2,1
+4,hamilton,Lewis Hamilton,Ferrari,41.0,4,0,2,0,3,0
+5,norris,Lando Norris,McLaren,25.0,4,0,1,1,4,0
+6,piastri,Oscar Piastri,McLaren,21.0,4,0,3,2,2,0
+7,bearman,Oliver Bearman,Haas F1 Team,17.0,4,0,1,1,5,0
+8,gasly,Pierre Gasly,Alpine F1 Team,15.0,4,0,0,0,6,0
+9,max_verstappen,Max Verstappen,Red Bull,12.0,4,0,1,1,6,1
+10,lawson,Liam Lawson,RB F1 Team,10.0,4,0,0,0,7,0
+11,hadjar,Isack Hadjar,Red Bull,4.0,4,0,1,1,8,0
+12,arvid_lindblad,Arvid Lindblad,RB F1 Team,4.0,4,0,1,1,8,0
+13,bortoleto,Gabriel Bortoleto,Audi,2.0,4,0,1,1,9,0
+14,sainz,Carlos Sainz,Williams,2.0,4,0,0,0,9,0
+15,colapinto,Franco Colapinto,Alpine F1 Team,1.0,4,0,0,0,10,0
+16,ocon,Esteban Ocon,Haas F1 Team,1.0,4,0,0,0,10,0
+17,albon,Alexander Albon,Williams,0.0,4,0,1,1,12,0
+18,alonso,Fernando Alonso,Aston Martin,0.0,4,0,2,2,17,0
+19,hulkenberg,Nico Hülkenberg,Audi,0.0,4,0,2,2,11,0
+20,bottas,Valtteri Bottas,Cadillac F1 Team,0.0,4,0,2,2,13,0
+21,perez,Sergio Pérez,Cadillac F1 Team,0.0,4,0,0,0,15,0
+22,stroll,Lance Stroll,Aston Martin,0.0,4,0,3,2,18,0
