@@ -57,7 +57,7 @@ def load_data():
             total_points  = ('points', 'sum'),
             races_entered = ('race_round', 'count'),
             wins          = ('finish_position', lambda x: (x == 1).sum()),
-            podiums       = ('finish_position', lambda x: (x <= 3).sum()),
+            podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
             dnfs          = ('status', lambda x: (x == 'DNF').sum()),
             fastest_laps  = ('fastest_lap_rank', lambda x: (x == 1).sum()),
         )
@@ -74,7 +74,7 @@ def load_data():
         .agg(
             total_points = ('points', 'sum'),
             wins         = ('finish_position', lambda x: (x == 1).sum()),
-            podiums      = ('finish_position', lambda x: (x <= 3).sum()),
+            podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
             dnfs         = ('status', lambda x: (x == 'DNF').sum()),
             fastest_laps = ('fastest_lap_rank', lambda x: (x == 1).sum()),
         )
@@ -615,7 +615,7 @@ def update_standings(selected_constructors, selected_round):
         .agg(
             total_points  = ('points', 'sum'),
             wins          = ('finish_position', lambda x: (x == 1).sum()),
-            podiums       = ('finish_position', lambda x: (x <= 3).sum()),
+            podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
             fastest_laps  = ('fastest_lap_rank', lambda x: (x == 1).sum()),
         )
         .reset_index()
@@ -631,7 +631,7 @@ def update_standings(selected_constructors, selected_round):
         .agg(
             total_points = ('points', 'sum'),
             wins         = ('finish_position', lambda x: (x == 1).sum()),
-            podiums      = ('finish_position', lambda x: (x <= 3).sum()),
+            podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
         )
         .reset_index()
         .sort_values('total_points', ascending=False)
@@ -867,7 +867,7 @@ def update_progression(selected_drivers, selected_round):
         .groupby('driver_name')
         .agg(
             Wins    = ('finish_position', lambda x: (x == 1).sum()),
-            Podiums = ('finish_position', lambda x: (x <= 3).sum()),
+            podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
         )
         .reset_index()
         .sort_values('Wins', ascending=False)
