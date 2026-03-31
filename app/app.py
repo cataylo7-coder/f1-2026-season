@@ -888,13 +888,13 @@ def update_progression(selected_drivers, selected_round):
         opacity=0.7,
     ))
     fig_wp.update_layout(
-        **PLOTLY_TEMPLATE['layout'],
-        barmode='group',
-        height=320,
-        margin={'t': 10, 'b': 80, 'l': 40, 'r': 20},
-        xaxis_tickangle=-40,
-        legend={'orientation': 'h', 'y': 1.05},
+    **PLOTLY_TEMPLATE['layout'],
+    barmode='group',
+    height=320,
+    margin={'t': 10, 'b': 80, 'l': 40, 'r': 20},
     )
+    fig_wp.update_xaxes(tickangle=-40)
+    fig_wp.update_layout(legend={'orientation': 'h', 'y': 1.05})
 
     return fig_line, fig_wp
 
