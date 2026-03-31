@@ -34,7 +34,7 @@ load_dotenv()
 # never touch the codebase or GitHub.
 # Locally: create a .env file and load with python-dotenv (optional)
 # On Render: set these in the dashboard under Environment tab
-ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY', 'REMOVED')
+ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
 DASH_USERNAME     = os.environ.get('DASH_USERNAME', 'claytay90')
 DASH_PASSWORD     = os.environ.get('DASH_PASSWORD', 'PamaGKnight$90!')
 
