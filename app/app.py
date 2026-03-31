@@ -870,7 +870,11 @@ def update_progression(selected_drivers, selected_round):
             Podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
         )
         .reset_index()
-        .sort_values('Wins', ascending=False)
+        .sort_values(
+            ['Wins', 'Podiums', 'driver_name'],
+            ascending=[False, False, True]
+        )
+        .reset_index(drop=True)
     )
 
     fig_wp = go.Figure()
