@@ -874,6 +874,10 @@ def update_progression(selected_drivers, selected_round):
     )
 
     fig_wp = go.Figure()
+    # Force Plotly to respect our sort order by explicitly setting
+    # categoryorder on the x-axis to match the sorted DataFrame index
+    driver_order = df_wp_summary['driver_name'].tolist()
+
     fig_wp.add_trace(go.Bar(
         name='Wins',
         x=df_wp_summary['driver_name'],
@@ -887,6 +891,7 @@ def update_progression(selected_drivers, selected_round):
         marker_color=COLORS['accent2'],
         opacity=0.7,
     ))
+    fig_wp.update_xaxes(categoryorder='array', categoryarray=driver_order)
     fig_wp.update_layout(
     **PLOTLY_TEMPLATE['layout'],
     barmode='group',
