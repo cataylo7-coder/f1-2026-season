@@ -867,7 +867,7 @@ def update_progression(selected_drivers, selected_round):
         .groupby('driver_name')
         .agg(
             Wins    = ('finish_position', lambda x: (x == 1).sum()),
-            podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
+            Podiums = ('finish_position', lambda x: ((x >= 1) & (x <= 3)).sum()),
         )
         .reset_index()
         .sort_values('Wins', ascending=False)
